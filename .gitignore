@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*.txt
+!*.png
+!Morphing.py
+!README
